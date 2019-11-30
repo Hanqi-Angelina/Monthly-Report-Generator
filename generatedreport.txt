@@ -1,0 +1,31 @@
+Brief Monthly Weather Report
+
+
+the average temperature is 23.3 C
+
+the average Relative Humidity is 81.56 %
+
+the average Barometric Pressure is 101.36 kPa
+
+the average wind speed is 5.12 kph
+
+the average solar irradiance is 247.61 W/m^2
+
+the average rainfall is 0.06 mm
+
+the area is experiencing a dry month
+
+the dominant wind direction is S
+
+It has not been in mild or cold winter yet
+
+The atmospheric pressure is in good condition
+
+Condition: This indicates that the air is unsaturated with vapour, which means more water could evaporate
+Body feeling: People feels comfortable as the body can cool down as water evaporates to the form dew.
+
+The wind speed is within the normal range
+
+The energy received from the sun is above the average. This can indicate higher temperature days for the month
+
+There are no heat waves this month
